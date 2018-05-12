@@ -1,4 +1,5 @@
 _repo: Eine-Teufelsaustreibung-und-andere-Geschichten-Eine-Teufelsaustreibung-Das-Tier-Interessante-__50912
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Eliasberg, Alexander
@@ -10,12 +11,17 @@ contributor:
   - agent_name: Nötzel, Karl
     gutenberg_agent_id: '46140'
     url: http://www.gutenberg.org/2009/agents/46140
+covers:
+- cover_type: archival
+  image_path: 50912-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Leskow, Nikolai
     gutenberg_agent_id: '46139'
     url: http://www.gutenberg.org/2009/agents/46139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50912#Eine-Teufelsaustreibung-und-andere-Geschichten-Eine-Teufelsaustreibung-Das-Tier-Interessante-_
 gutenberg_issued: '2016-01-13'
 gutenberg_type: Text
 identifiers:
